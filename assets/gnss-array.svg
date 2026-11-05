@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Conceptual diagram of four-element GNSS linear array receiver">
+ <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#102239"/><stop offset="1" stop-color="#183C52"/></linearGradient></defs>
+ <rect width="1000" height="240" rx="12" fill="url(#bg)"/>
+ <g fill="none" stroke="#60C8D1" stroke-width="2" opacity=".75">
+  <path d="M130 110v38m150-38v38m150-38v38m150-38v38"/>
+  <path d="M111 110h38m112 0h38m112 0h38m112 0h38"/>
+  <path d="M110 96q20-30 40 0m110 0q20-30 40 0m110 0q20-30 40 0m110 0q20-30 40 0"/>
+  <path d="M130 148H580" stroke="#BBD5DB"/>
+  <path d="M130 148v28m150-28v28m150-28v28m150-28v28" opacity=".5"/>
+ </g>
+ <g fill="#89E3DC"><circle cx="130" cy="110" r="4"/><circle cx="280" cy="110" r="4"/><circle cx="430" cy="110" r="4"/><circle cx="580" cy="110" r="4"/></g>
+ <g fill="#C0D9E1" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle"><text x="130" y="193">Rx 1</text><text x="280" y="193">Rx 2</text><text x="430" y="193">Rx 3</text><text x="580" y="193">Rx 4</text></g>
+ <path d="M624 142H693" stroke="#EFC882" stroke-width="2"/><path d="M680 134l13 8-13 8" fill="none" stroke="#EFC882" stroke-width="2"/>
+ <rect x="698" y="79" width="241" height="119" rx="12" fill="#0D2539" stroke="#60A4B4"/>
+ <text x="818" y="113" fill="#E7F6F7" font-family="Arial, Helvetica, sans-serif" font-size="23" text-anchor="middle" font-weight="bold">USRP X310</text>
+ <text x="818" y="142" fill="#83DAD9" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="middle">4-channel I/Q acquisition</text>
+ <text x="818" y="169" fill="#AFC4D2" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle">GPSDO-referenced</text>
+ <text x="40" y="39" fill="#D8E6EE" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">FOUR-ELEMENT GNSS LINEAR ARRAY</text>
+</svg>
