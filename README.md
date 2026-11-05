@@ -19,6 +19,14 @@ My research focuses on **AI-enabled wireless communications** and **wireless spa
 
 **Research interests:** Wireless Spatial Intelligence · Radio Environment Modeling & Prediction · Perception-Assisted Communications
 
+<table>
+  <tr>
+    <td align="center" width="33.3%"><img src="assets/card-spatial-intelligence.svg" alt="Wireless Spatial Intelligence" width="100%" /></td>
+    <td align="center" width="33.3%"><img src="assets/card-radio-modeling.svg" alt="Radio Environment Modeling and Prediction" width="100%" /></td>
+    <td align="center" width="33.3%"><img src="assets/card-perception-communications.svg" alt="Perception-Assisted Communications" width="100%" /></td>
+  </tr>
+</table>
+
 ### Selected Publications
 
 | Venue | Publication |
