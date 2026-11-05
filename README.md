@@ -21,9 +21,21 @@ My research focuses on **AI-enabled wireless communications** and **wireless spa
 
 <table>
   <tr>
-    <td align="center" width="33.3%"><img src="assets/card-spatial-intelligence.svg" alt="Wireless Spatial Intelligence" width="100%" /></td>
-    <td align="center" width="33.3%"><img src="assets/card-radio-modeling.svg" alt="Radio Environment Modeling and Prediction" width="100%" /></td>
-    <td align="center" width="33.3%"><img src="assets/card-perception-communications.svg" alt="Perception-Assisted Communications" width="100%" /></td>
+    <td align="center" width="33.3%">
+      <img src="assets/wireless-spatial-intelligence.png" alt="Wireless Spatial Intelligence" width="100%" />
+      <br />
+      <sub><b>Wireless Spatial Intelligence</b></sub>
+    </td>
+    <td align="center" width="33.3%">
+      <img src="assets/radio-environment-modeling.png" alt="Radio Environment Modeling & Prediction" width="100%" />
+      <br />
+      <sub><b>Radio Environment Modeling &amp; Prediction</b></sub>
+    </td>
+    <td align="center" width="33.3%">
+      <img src="assets/perception-assisted-communications.png" alt="Perception-Assisted Communications" width="100%" />
+      <br />
+      <sub><b>Perception-Assisted Communications</b></sub>
+    </td>
   </tr>
 </table>
 
