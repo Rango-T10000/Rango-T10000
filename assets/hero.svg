@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Zhicheng Wang, Wireless Spatial Intelligence, RF field visualization">
+ <defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#0A1525"/><stop offset=".55" stop-color="#0D2639"/><stop offset="1" stop-color="#123449"/></linearGradient>
+  <linearGradient id="wave" x1="0" x2="1"><stop stop-color="#76D6E0" stop-opacity=".07"/><stop offset=".5" stop-color="#63DFD1" stop-opacity=".74"/><stop offset="1" stop-color="#E2B66B" stop-opacity=".66"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#32CBC2" stop-opacity=".22"/><stop offset="1" stop-color="#32CBC2" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9EDCE1" stroke-opacity=".10" stroke-width="1"/></pattern>
+  <filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter>
+ </defs>
+ <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+ <rect x="580" width="620" height="300" fill="url(#grid)"/>
+ <circle cx="953" cy="151" r="230" fill="url(#glow)"/>
+ <path d="M616 256C728 205 799 249 898 151S1096 92 1194 24" stroke="url(#wave)" stroke-width="2.5" fill="none"/>
+ <path d="M606 238C728 185 783 217 896 142S1090 72 1195 49" stroke="url(#wave)" stroke-width="1.2" fill="none" opacity=".7"/>
+ <path d="M617 274C718 234 806 274 905 165S1080 130 1190 79" stroke="url(#wave)" stroke-width="1.2" fill="none" opacity=".5"/>
+ <g stroke="#60C8D3" stroke-width="1.25" fill="none" opacity=".7">
+  <ellipse cx="946" cy="154" rx="174" ry="63" transform="rotate(-18 946 154)"/>
+  <ellipse cx="946" cy="154" rx="147" ry="50" transform="rotate(34 946 154)"/>
+  <ellipse cx="946" cy="154" rx="122" ry="122" stroke-opacity=".3"/>
+  <ellipse cx="946" cy="154" rx="83" ry="83" stroke-opacity=".4"/>
+ </g>
+ <g fill="none" stroke="#7BE2E0" stroke-opacity=".44" stroke-width="1">
+  <path d="M732 205L803 135 873 194 951 96 1059 178 1134 106"/>
+  <path d="M767 75L843 110 918 58 1034 89 1113 48"/>
+  <path d="M837 242L934 210 1041 255 1146 195"/>
+  <path d="M803 135L843 110 873 194 934 210 951 96 1034 89 1059 178 1113 48 1134 106" stroke-dasharray="4 6" stroke-opacity=".24"/>
+ </g>
+ <g fill="#80E0D9"><circle cx="732" cy="205" r="3"/><circle cx="803" cy="135" r="4"/><circle cx="873" cy="194" r="3"/><circle cx="951" cy="96" r="5"/><circle cx="1059" cy="178" r="3"/><circle cx="1134" cy="106" r="3"/><circle cx="843" cy="110" r="3"/><circle cx="918" cy="58" r="3"/><circle cx="1034" cy="89" r="3"/><circle cx="934" cy="210" r="4"/><circle cx="1041" cy="255" r="3"/></g>
+ <circle cx="946" cy="154" r="7" fill="#EAC078"/><circle cx="946" cy="154" r="19" fill="none" stroke="#EAC078" stroke-opacity=".55"/><circle cx="946" cy="154" r="31" fill="none" stroke="#EAC078" stroke-opacity=".25"/>
+ <rect x="48" y="41" width="4" height="30" rx="2" fill="#6BE2D6"/>
+ <text x="68" y="64" fill="#84D4D7" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3.2">RESEARCH · WIRELESS AI · SPATIAL INTELLIGENCE</text>
+ <text x="48" y="153" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-.6">Zhicheng Wang</text>
+ <text x="50" y="203" fill="#D7E8ED" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400">Modeling the radio world through spatial intelligence</text>
+ <path d="M50 232H508" stroke="#7EC7CA" stroke-opacity=".38"/>
+ <text x="50" y="260" fill="#97B7C8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1.1">POLYU  /  COMMUNICATIONS  /  LEARNING-BASED RADIO MODELING</text>
+</svg>
