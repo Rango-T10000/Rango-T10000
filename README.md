@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Zhicheng Wang — Wireless Spatial Intelligence" width="100%" />
 
-  <h2>Zhicheng Wang · 王志诚</h2>
+  <h2>Zhicheng Wang</h2>
   <p>PhD Student · Department of Computing · The Hong Kong Polytechnic University</p>
   <p>
     <a href="mailto:23038267r@connect.polyu.hk">Email</a> &nbsp;·&nbsp;
