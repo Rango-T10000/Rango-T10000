@@ -50,14 +50,25 @@ My research focuses on **AI-enabled wireless communications** and **wireless spa
 ### Featured Open-Source System
 
 <a href="https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR">
-<img src="assets/gnss-array.svg" alt="Conceptual illustration: four-element GNSS linear array receiver" width="100%" />
+  <img src="assets/gnss-array.svg" alt="Four-element GNSS linear-array receiver — conceptual illustration" width="100%" />
 </a>
 
-**[Four-Element GNSS Linear-Array Receiver](https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR)**
-
-Built a 1×4 GPS L1 antenna-array receiver using USRP X310, GPSDO-referenced timing, and GNU Radio. The open-source implementation supports four-channel I/Q acquisition, single-channel real-time and per-channel offline GNSS-SDR decoding, and Python-based extraction of GNSS observations into structured datasets.
-
-[Explore the repository](https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR)
+<table>
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <a href="https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR#2-build-this-testbed">
+        <img src="https://raw.githubusercontent.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR/main/figs/connect.png" alt="Hardware connection diagram for the four-element GNSS linear-array receiver" width="100%" />
+      </a>
+    </td>
+    <td width="62%" valign="middle">
+      <p><strong>OPEN-SOURCE SYSTEM</strong> &nbsp;·&nbsp; <sub>GNSS / SOFTWARE-DEFINED RADIO</sub></p>
+      <h3><a href="https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR">Four-Element GNSS Linear-Array Receiver</a></h3>
+      <p>Designed and built a <strong>1×4 GPS L1 antenna-array receiver</strong> using USRP X310 and GPSDO-referenced timing, with four-channel I/Q acquisition in GNU Radio.</p>
+      <p>Integrated GNSS-SDR for real-time single-channel and offline per-channel decoding, plus Python tools to extract carrier phase, C/N₀, receiver/satellite positions, and timestamps into structured datasets.</p>
+      <p><a href="https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR"><strong>GitHub Repository</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR#2-build-this-testbed">Hardware Setup</a> &nbsp;·&nbsp; <a href="https://github.com/Rango-T10000/Antenna_array_GPS_receiver_USRP_GNSS-SDR/tree/main/code">Python Tools</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
