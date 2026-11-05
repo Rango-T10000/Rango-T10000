@@ -5,9 +5,8 @@
   <h2>Zhicheng Wang</h2>
   <p>PhD Student · Department of Computing · The Hong Kong Polytechnic University</p>
   <p>
-    <a href="mailto:23038267r@connect.polyu.hk">Email</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/zhicheng-wang-610885282">Linkedin</a> &nbsp;·&nbsp;
     <a href="https://www.researchgate.net/profile/Zhicheng-Wang-47">ResearchGate</a> &nbsp;·&nbsp;
-    <a href="https://openreview.net/profile?id=~Zhicheng_Wang19">OpenReview</a>
   </p>
 </div>
 
